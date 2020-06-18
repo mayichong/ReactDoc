@@ -1,4 +1,4 @@
-## These are all the notes I wrote down while learning React.
+## These are all the notes I wrote down while learning React. document-friendly versions in repo. Feel free to share them. 
 
 
 

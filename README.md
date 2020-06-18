@@ -1,4 +1,5 @@
-React Documentation
+## These are all the notes I wrote down while learning React.
+
 
 
 
